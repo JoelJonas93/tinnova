@@ -28,6 +28,7 @@
   da lista ordenada
   
   **Obs:**Alterar o código do método em OrdenaBubbleSortResouce para:
+  
       	@PostMapping
         public ResponseEntity<?> ordenaBubble(@RequestParam("lista") int[] lista){
 
